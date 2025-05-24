@@ -6,7 +6,7 @@ const name = "Rowland";
 <template>
   <div>
     <!-- <HelloWorld msg="Vite + Vue" /> -->
-    <h1>Hello {{ name }}</h1>
+    <h1 class="text-4xl text-blue-500">Hello {{ name }}</h1>
   </div>
 </template>
 

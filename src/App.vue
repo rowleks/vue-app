@@ -1,10 +1,10 @@
 <template>
-  <!-- <Binding /> -->
-  <Conditional />
+  <!-- <Binding />
+  <Conditional /> -->
+  <Events />
 </template>
 
 <script setup lang="ts">
-// import Binding from "./components/binding/Binding.vue";
-import Conditional from "./components/rendering/Conditional.vue";
+import Events from "./components/events-handling/Events.vue";
 </script>
 <style scoped></style>

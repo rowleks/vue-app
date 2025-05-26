@@ -1,10 +1,14 @@
 <template>
-  <!-- <Binding />
-  <Conditional /> -->
+  <!-- 
+   <Binding />
+  <Conditional />
   <Events />
+  -->
+
+  <Form />
 </template>
 
 <script setup lang="ts">
-import Events from "./components/events-handling/Events.vue";
+import Form from "./components/form-handling/Form.vue";
 </script>
 <style scoped></style>
